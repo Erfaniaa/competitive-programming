@@ -30,7 +30,7 @@ Sport programming related stuff
 
 
 - [Sanjoy Dasgupta, Christos H. Papadimitriou and Umesh Vazirani, Algorithms](https://b-ok.org/book/3332172/4a5bbf) (recommended)
-- [Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein*, Introduction to Algorithms](https://b-ok.org/book/986690/1e31b0) (CLRS)
+- [Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduction to Algorithms](https://b-ok.org/book/986690/1e31b0) (CLRS)
 - [Udi Manber, Introduction to Algorithms: A Creative Approach](https://b-ok.org/book/5205988/ac10bb)
 
 ### Graph theory
