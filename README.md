@@ -24,7 +24,7 @@ Sport programming related stuff
 - [cplusplus.com](http://www.cplusplus.com)
 - [Tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)
 
-###Algorithm design and data structures
+### Algorithm design and data structures
 
 - [Steven Halim, Competitive Programming 3](https://b-ok.org/book/2838182/6c5886) (recommended alongside [uHunt](https://uhunt.onlinejudge.org/))
 
@@ -33,7 +33,7 @@ Sport programming related stuff
 - [Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein*, Introduction to Algorithms](https://b-ok.org/book/986690/1e31b0) (CLRS)
 - [Udi Manber, Introduction to Algorithms: A Creative Approach](https://b-ok.org/book/5205988/ac10bb)
 
-###Graph theory
+### Graph theory
 
 - [Douglas B. West, Introduction to Graph Theory](https://b-ok.org/book/1189872/779856) (recommended)
 
