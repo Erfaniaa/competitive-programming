@@ -48,3 +48,5 @@ Sport programming related stuff
 
 - [Testsaz](https://github.com/erfaniaa/testsaz)
 - [Starting DOMjudge](https://github.com/erfaniaa/starting-domjudge)
+- [codes2pdf](https://github.com/erfaniaa/codes2pdf)
+- [doggy-sweat-cheatsheet](https://github.com/erfaniaa/doggy-sweat-cheatsheet)
