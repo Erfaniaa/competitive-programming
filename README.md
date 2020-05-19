@@ -33,7 +33,7 @@ Sport programming related stuff
 
 ### Graph theory
 
-- [Douglas B. West, Introduction to Graph Theory](https://b-ok.org/book/1189872/779856) (recommended)
+- [Douglas B. West, Introduction to Graph Theory](https://b-ok.org/book/1189872/779856) (the first three chapters are recommended)
 
 ### Combinatorics
 
