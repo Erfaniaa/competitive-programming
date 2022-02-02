@@ -26,7 +26,6 @@ Sport programming related stuff
 
 ### Algorithm design and data structures
 
-- [Steven Halim, Competitive Programming 3](https://b-ok.org/book/2838182/6c5886) (recommended alongside [uHunt](https://uhunt.onlinejudge.org/))
 - [Sanjoy Dasgupta, Christos H. Papadimitriou and Umesh Vazirani, Algorithms](https://b-ok.org/book/3332172/4a5bbf) (recommended)
 - [Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduction to Algorithms](https://b-ok.org/book/986690/1e31b0) (CLRS)
 - [Udi Manber, Introduction to Algorithms: A Creative Approach](https://b-ok.org/book/5205988/ac10bb)
@@ -46,6 +45,7 @@ Sport programming related stuff
 
 ### Competitive Programming
 
+- [Steven Halim, Competitive Programming 3](https://b-ok.org/book/2838182/6c5886) (recommended alongside [uHunt](https://uhunt.onlinejudge.org/))
 - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) (by [pllk](https://codeforces.com/profile/pllk))
 
 ## See also
