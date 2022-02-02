@@ -41,6 +41,12 @@ Sport programming related stuff
 - [Chen Chuan Chong and Koh Khee Meng, Principles and Techniques in Combinatorics](https://b-ok.org/book/5249619/13b0f3)
 - [Arthur Engel, Problem-solving Strategies](https://b-ok.org/book/1300775/af9d16)
 - [Victor Bryant, Aspects of Combinatorics: A Wide-ranging Introduction](https://b-ok.org/book/762476/bd3cb9)
+- [Douglas B. West, Combinatorial Mathematics](https://ca1lib.org/book/11643282/2877af)
+- [Laszlo Lovasz, Combinatorial Problems and Exercises](https://ca1lib.org/book/5232296/18f671) (recommended by [misof](https://www.topcoder.com/members/misof))
+
+### Competitive Programming
+
+- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) (by [pllk](https://codeforces.com/profile/pllk))
 
 ## See also
 
