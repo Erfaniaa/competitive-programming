@@ -46,7 +46,7 @@ Sport programming related stuff
 ### Competitive Programming
 
 - [Steven Halim, Competitive Programming 3](https://b-ok.org/book/2838182/6c5886) (recommended alongside [uHunt](https://uhunt.onlinejudge.org/))
-- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) (by [pllk](https://codeforces.com/profile/pllk))
+- [Antti Laaksonen, Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) (by [pllk](https://codeforces.com/profile/pllk))
 
 ## See also
 
