@@ -10,11 +10,11 @@ Sport programming related stuff
 
 ## Online judges
 
-- [Codeforces](codeforces.com)
-- [Codechef](www.codechef.com)
-- [SPOJ](www.spoj.com)
-- [USACO](www.usaco.org)
-- [UVa Online Judge](www.onlinejudge.org)
+- [Codeforces](http://codeforces.com)
+- [Codechef](http://www.codechef.com)
+- [SPOJ](http://www.spoj.com)
+- [USACO](http://usaco.org)
+- [UVa Online Judge](http://onlinejudge.org)
 - [vjudge](http://vjudge.net/)
 
 ## Resources
