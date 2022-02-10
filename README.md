@@ -4,9 +4,9 @@ Sport programming related stuff
 
 ## In this repository
 
-- [Codeforces accepted solutions](https://github.com/Erfaniaa/competitive-progtamming/tree/master/Codeforces)
-- [Codechef accepted solutions](https://github.com/Erfaniaa/competitive-progtamming/tree/master/Codechef)
-- [Classic algorithms and data structures](https://github.com/Erfaniaa/competitive-progtamming/tree/master/Algorithms)
+- [Codeforces accepted solutions](https://github.com/Erfaniaa/competitive-programming/tree/master/Codeforces)
+- [Codechef accepted solutions](https://github.com/Erfaniaa/competitive-programming/tree/master/Codechef)
+- [Classic algorithms and data structures](https://github.com/Erfaniaa/competitive-programming/tree/master/Algorithms)
 
 ## Online judges
 
