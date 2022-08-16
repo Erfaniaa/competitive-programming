@@ -8,6 +8,7 @@ Sport programming related stuff
 - [Codeforces accepted solutions](https://github.com/Erfaniaa/competitive-programming/tree/master/Codeforces)
 - [Codechef accepted solutions](https://github.com/Erfaniaa/competitive-programming/tree/master/Codechef)
 - [Project Euler accepted solutions](https://github.com/Erfaniaa/competitive-programming/tree/master/Project%20Euler)
+- [SPOJ accepted solutions](https://github.com/Erfaniaa/competitive-programming/tree/master/SPOJ)
 - [USACO accepted solutions](https://github.com/Erfaniaa/competitive-programming/tree/master/USACO)
 
 ## Online judges
