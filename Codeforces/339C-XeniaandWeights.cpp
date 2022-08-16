@@ -8,7 +8,6 @@
 	Verdict	:	OK
 */
 
-//Be name Khoda
 #include<iostream>
 #include<iomanip>
 #include<cmath>
