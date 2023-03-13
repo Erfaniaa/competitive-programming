@@ -46,6 +46,10 @@ Sport programming related stuff
 - [Douglas B. West, Combinatorial Mathematics](https://ca1lib.org/book/11643282/2877af)
 - [Laszlo Lovasz, Combinatorial Problems and Exercises](https://ca1lib.org/book/5232296/18f671) (recommended by [misof](https://www.topcoder.com/members/misof))
 
+### Computational Geometry
+- [Victor Lecomte, Handbook of geometry for competitive programmers](https://victorlecomte.com/cp-geo.pdf)
+- [David Mount, Computational Geometry](http://www.cs.umd.edu/class/fall2021/cmsc754/Lects/cmsc754-fall-2021-lects.pdf)
+
 ### Competitive Programming
 
 - [Steven Halim, Competitive Programming 3](https://b-ok.org/book/2838182/6c5886) (recommended alongside [uHunt](https://uhunt.onlinejudge.org/))
