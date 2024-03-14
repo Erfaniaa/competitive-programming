@@ -36,7 +36,7 @@ Sport programming related stuff
 ### Graph theory
 
 - [Douglas B. West, Introduction to Graph Theory](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/West-Graph.pdf) (the first three chapters are recommended)
-- [Douglas B. West, Introduction to Graph Theory - Solution Manual](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/West-Graph-Solution-Manual.pdf) (the first three chapters are recommended)
+- [Douglas B. West, Introduction to Graph Theory - Solution Manual](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/West-Graph-Solution-Manual.pdf)
 
 ### Combinatorics
 
