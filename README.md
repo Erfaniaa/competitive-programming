@@ -29,31 +29,32 @@ Sport programming related stuff
 
 ### Algorithm design and data structures
 
-- [Sanjoy Dasgupta, Christos H. Papadimitriou and Umesh Vazirani, Algorithms](https://b-ok.org/book/3332172/4a5bbf) (recommended)
-- [Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduction to Algorithms](https://b-ok.org/book/986690/1e31b0) (CLRS)
-- [Udi Manber, Introduction to Algorithms: A Creative Approach](https://b-ok.org/book/5205988/ac10bb)
+- [Sanjoy Dasgupta, Christos H. Papadimitriou and Umesh Vazirani, Algorithms](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Dasgupta-Papadimitriou-Vazirani-Algoritms.pdf) (recommended)
+- [Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduction to Algorithms](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/CLRS.pdf) (CLRS)
+- [Udi Manber, Introduction to Algorithms: A Creative Approach](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Manber-Introduction-to-Algorithms-A-Creative-Approach.pdf)
 
 ### Graph theory
 
-- [Douglas B. West, Introduction to Graph Theory](https://b-ok.org/book/1189872/779856) (the first three chapters are recommended)
+- [Douglas B. West, Introduction to Graph Theory](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/West-Graph.pdf) (the first three chapters are recommended)
+- [Douglas B. West, Introduction to Graph Theory - Solution Manual](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/West-Graph-Solution-Manual.pdf) (the first three chapters are recommended)
 
 ### Combinatorics
 
-- [Ivan Niven, Mathematics of Choice: Or, How to Count Without Counting](https://b-ok.org/book/497530/f5a0ab) (for beginners)
-- [Chen Chuan Chong and Koh Khee Meng, Principles and Techniques in Combinatorics](https://b-ok.org/book/5249619/13b0f3)
-- [Arthur Engel, Problem-solving Strategies](https://b-ok.org/book/1300775/af9d16)
-- [Victor Bryant, Aspects of Combinatorics: A Wide-ranging Introduction](https://b-ok.org/book/762476/bd3cb9)
-- [Douglas B. West, Combinatorial Mathematics](https://ca1lib.org/book/11643282/2877af)
-- [Laszlo Lovasz, Combinatorial Problems and Exercises](https://ca1lib.org/book/5232296/18f671) (recommended by [misof](https://www.topcoder.com/members/misof))
+- [Ivan Niven, Mathematics of Choice: Or, How to Count Without Counting](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Niven-Maths-of-Choice.pdf) (for beginners)
+- [Chen Chuan Chong and Koh Khee Meng, Principles and Techniques in Combinatorics](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Principles-and-Techniques-in-Combinatorics.pdf)
+- [Arthur Engel, Problem-solving Strategies](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Engel-Problem-Solving-Strategies.pdf)
+- Victor Bryant, Aspects of Combinatorics: A Wide-ranging Introduction
+- Douglas B. West, Combinatorial Mathematics
+- Laszlo Lovasz, Combinatorial Problems and Exercises (recommended by [misof](https://www.topcoder.com/members/misof))
 
 ### Computational Geometry
-- [Victor Lecomte, Handbook of geometry for competitive programmers](https://victorlecomte.com/cp-geo.pdf)
-- [David Mount, Computational Geometry](http://www.cs.umd.edu/class/fall2021/cmsc754/Lects/cmsc754-fall-2021-lects.pdf)
+- [Victor Lecomte, Handbook of geometry for competitive programmers](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Lecomte-CP-Geo.pdf)
+- [David Mount, Computational Geometry](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Mount-Computational-Geometry.pdf)
 
 ### Competitive Programming
 
-- [Steven Halim, Competitive Programming 3](https://b-ok.org/book/2838182/6c5886) (recommended alongside [uHunt](https://uhunt.onlinejudge.org/))
-- [Antti Laaksonen, Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) (by [pllk](https://codeforces.com/profile/pllk))
+- [Steven Halim, Competitive Programming 3](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Steven-Halim-CP3.pdf) (recommended alongside [uHunt](https://uhunt.onlinejudge.org/))
+- [Antti Laaksonen, Competitive Programmer’s Handbook](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Competitive-Programmers-Handbook.pdf) (by [pllk](https://codeforces.com/profile/pllk))
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/) (by [e-maxx](https://www.topcoder.com/members/e-maxx))
 
 ## See also
