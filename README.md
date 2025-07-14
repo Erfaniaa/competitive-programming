@@ -62,4 +62,4 @@ Sport programming related stuff
 - [Testsaz](https://github.com/erfaniaa/testsaz)
 - [Starting DOMjudge](https://github.com/erfaniaa/starting-domjudge)
 - [codes2pdf](https://github.com/erfaniaa/codes2pdf)
-- [Doggy Sweat ACM ICPC team notebook](https://github.com/erfaniaa/doggy-sweat-cheatsheet)
+- [Shahid Beheshti University team notebook](https://github.com/erfaniaa/icpc-notebook)
