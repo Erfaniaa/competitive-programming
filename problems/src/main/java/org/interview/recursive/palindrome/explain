@@ -1,0 +1,12 @@
+Given a string, write a recursive function that checks if the given string is a palindrome or not.
+
+Examples:
+
+Input : malayalam
+Output : Yes
+Reverse of malayalam is also
+malayalam.
+
+Input : max
+Output : No
+Reverse of max is not max.
