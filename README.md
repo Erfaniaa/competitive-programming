@@ -57,6 +57,9 @@ Sport programming related stuff
 - [Antti Laaksonen, Competitive Programmer’s Handbook](https://github.com/Erfaniaa/competitive-programming/blob/master/Books/Competitive-Programmers-Handbook.pdf) (by [pllk](https://codeforces.com/profile/pllk))
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/) (by [e-maxx](https://www.topcoder.com/members/e-maxx))
 
+### Courses
+ - [Stanford CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
+
 ## See also
 
 - [Testsaz](https://github.com/erfaniaa/testsaz)
